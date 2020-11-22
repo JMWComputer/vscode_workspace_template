@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "tools"
+		},
+		{
+			"path" : "source"
+		},
+		{
+			"path" : "out"
+		}
+	],
+	"settings": {}
+}
