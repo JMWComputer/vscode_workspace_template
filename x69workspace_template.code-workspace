@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path" : "source"
-		},
-		{
-			"path" : "out"
 		}
 	],
 	"settings": {}
